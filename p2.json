@@ -1,0 +1,18 @@
+[
+	{
+		"Type": "Veg",
+		"Name": "chaari Do Pyaaza",
+		"Regular": "Rs. 165",
+		"Medium": "Rs. 305",
+		"Large": "Rs. 495",
+		"Description": "Tangy &amp; spicy achari flavours on a super cheesy onion pizza- as desi as it gets!"
+	},
+	{
+		"Type": "Veg",
+		"Name": "Kadhai Paneer",
+		"Regular": "Rs. 215",
+		"Medium": "Rs. 395",
+		"Large": "Rs. 595",
+		"Description": "Paneer chunks in your favourite spicy kadhai masala flavors, with toppings of onion &amp; capsicum"
+	}
+]
