@@ -1,0 +1,145 @@
+[
+	{
+		"Type": "Veg",
+		"Name": "chaari Do Pyaaza",
+		"Regular": "Rs. 165",
+		"Medium": "Rs. 305",
+		"Large": "Rs. 495",
+		"Description": "Tangy &amp; spicy achari flavours on a super cheesy onion pizza- as desi as it gets!",
+		"URL": "https://images.dominos.co.in/updated_achari_do_pyaza.jpg"
+	},
+	{
+		"Type": "Veg",
+		"Name": "Kadhai Paneer",
+		"Regular": "Rs. 215",
+		"Medium": "Rs. 395",
+		"Large": "Rs. 595",
+		"Description": "Paneer chunks in your favourite spicy kadhai masala flavors, with toppings of onion &amp; capsicum",
+		"URL": "https://images.dominos.co.in/updated_kadhai_paneer.jpg"
+	},
+	{
+		"Type": "Veg",
+		"Name": "Margherita",
+		"Regular": "Rs. 99",
+		"Medium": "Rs. 199",
+		"Large": "Rs. 395",
+		"Description": "Classic delight with 100% real mozzarella cheese",
+		"URL": "https://images.dominos.co.in/new_margherita_2502.jpg"
+	},
+	{
+		"Type": "Veg",
+		"Name": "Cheese &amp; Corn",
+		"Regular": "Rs. 165",
+		"Medium": "Rs. 305",
+		"Large": "Rs. 495",
+		"Description": "A delectable combination of sweet &amp; juicy golden corn",
+		"URL": "https://images.dominos.co.in/new_cheese_n_corn.jpg"
+	},
+	{
+		"Type": "Veg",
+		"Name": "Cheese &amp; Tomato",
+		"Regular": "Rs. 165",
+		"Medium": "Rs. 305",
+		"Large": "Rs. 495",
+		"Description": "A delectable combination of cheese and juicy tomato",
+		"URL": "https://images.dominos.co.in/cheese_and_tomato.png"
+	},
+	{
+		"Type": "Veg",
+		"Name": "Double Cheese Margherita",
+		"Regular": "Rs. 185",
+		"Medium": "Rs. 335",
+		"Large": "Rs. 535",
+		"Description": "A classic delight loaded with extra 100% real mozzarella cheese",
+		"URL": "https://images.dominos.co.in/double_cheese_margherita_2502.jpg"
+	},
+	{
+		"Type": "Veg",
+		"Name": "Fresh Veggie",
+		"Regular": "Rs. 185",
+		"Medium": "Rs. 335",
+		"Large": "Rs. 535",
+		"Description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+		"URL": "https://images.dominos.co.in/new_fresh_veggie.jpg"
+	},
+	{
+		"Type": "Veg",
+		"Name": "Framhouse",
+		"Regular": "Rs. 215",
+		"Medium": "Rs. 395",
+		"Large": "Rs. 595",
+		"Description": "Delightful combination of onion, capsicum, tomato &amp; grilled mushroom",
+		"URL": "https://images.dominos.co.in/farmhouse.png"
+	},
+	{
+		"Type": "Non Veg",
+		"Name": "Chicken Sausage",
+		"Regular": "Rs. 165",
+		"Medium": "Rs. 305",
+		"Large": "Rs. 495",
+		"Description": "American classic! Spicy, herbed chicken sausage on pizza",
+		"URL": "https://images.dominos.co.in/new_chicken_sausage.jpg"
+	},
+	{
+		"Type": "Non Veg",
+		"Name": "Pepper Barbecue Chicken",
+		"Regular": "Rs. 185",
+		"Medium": "Rs. 335",
+		"Large": "Rs. 535",
+		"Description": "Pepper barbecue chicken for that extra zing",
+		"URL": "https://images.dominos.co.in/new_pepper_barbeque_chicken.jpg"
+	},
+	{
+		"Type": "Non Veg",
+		"Name": "Chicken Golden Delight",
+		"Regular": "Rs. 235",
+		"Medium": "Rs. 450",
+		"Large": "Rs. 695",
+		"Description": "Double pepper barbecue chicken, golden corn and extra cheese, true delight"
+	},
+	{
+		"Type": "Non Veg",
+		"Name": "Chicken Fiesta",
+		"Regular": "Rs. 235",
+		"Medium": "Rs. 450",
+		"Large": "Rs. 695",
+		"Description": "Grilled chicken rashers, peri-peri chicken, onion &amp; capsicum, a complete fiesta",
+		"URL": "https://images.dominos.co.in/new_chicken_fiesta.jpg"
+	},
+	{
+		"Type": "Non Veg",
+		"Name": "Chicken Pepperoni",
+		"Regular": "Rs. 305",
+		"Medium": "Rs. 570",
+		"Large": "Rs. 835",
+		"Description": "A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese",
+		"URL": "https://images.dominos.co.in/cheesepepperoni.png"
+	},
+	{
+		"Type": "Non Veg",
+		"Name": "Chicken Dominator",
+		"Regular": "Rs. 305",
+		"Medium": "Rs. 570",
+		"Large": "Rs. 835",
+		"Description": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka &amp; grilled chicken rashers",
+		"URL": "https://images.dominos.co.in/new_chicken_dominator.jpg"
+	},
+	{
+		"Type": "Non Veg",
+		"Name": "Non Veg Supreme",
+		"Regular": "Rs. 305",
+		"Medium": "Rs. 570",
+		"Large": "Rs. 835",
+		"Description": "Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken &amp; grilled chicken rashers",
+		"URL": "https://images.dominos.co.in/new_non_veg_supreme.jpg"
+	},
+	{
+		"Type": "Non Veg",
+		"Name": "Indi Chiken Tikka",
+		"Regular": "Rs. 305",
+		"Medium": "Rs. 570",
+		"Large": "Rs. 835",
+		"Description": "The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika &amp; mint mayo",
+		"URL": "https://images.dominos.co.in/IndianTandooriChickenTikka.jpg"
+	}
+]
